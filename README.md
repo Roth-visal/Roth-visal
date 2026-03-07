@@ -1,104 +1,150 @@
-# 👋 Hi, I'm Visal
+<!-- Animated Header -->
 
-🔧 Electronics Hardware & Embedded Systems Engineer  
-📡 Specialized in IoT Hardware, PCB Design, and Embedded Firmware  
+<h1 align="center">Hi 👋, I'm Visal</h1>
 
-I design **production-ready electronic systems** from circuit design to firmware development.  
-Focused on **robust IoT devices, power-efficient systems, and industrial hardware solutions.**
+<p align="center">
+Embedded Systems • Hardware Design • IoT Engineer
+</p>
 
----
-
-## 🚀 About Me
-
-- 🔭 Working on **IoT Embedded Systems**
-- ⚡ Experienced in **PCB Design & Hardware Prototyping**
-- 📡 Building **connected devices for industrial monitoring**
-- 💻 Programming **Embedded C/C++ for microcontrollers**
-- 🌱 Currently improving **advanced embedded firmware & system integration**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+Hardware+Engineer;Embedded+Systems+Developer;IoT+Device+Designer;PCB+Design+Specialist&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🧰 Hardware & Embedded Skills
+# 🔧 About Me
 
-### Hardware Design
+🔹 Electronics Hardware & Embedded Systems Engineer  
+🔹 Specialized in **PCB Design, IoT Hardware, and Embedded Firmware**  
+🔹 Designing **production-ready electronic systems**
+
+💡 Focus Areas
+
+- IoT Device Development
+- Embedded Firmware (C / C++)
+- Industrial Monitoring Systems
+- Power Electronics
+- Hardware Prototyping & Testing
+
+---
+
+# ⚙️ Hardware & Embedded Skills
+
+## 🔌 Hardware Design
+
 - Analog & Digital Circuit Design
 - PCB Layout & Signal Integrity
 - Power Electronics (Buck / Boost / LDO)
-- EMI / EMC Design Considerations
-- Hardware Debugging & Validation
+- EMI / EMC Design
+- Hardware Debugging
 
-### Embedded Systems
+## 💻 Embedded Development
+
 - Embedded C / C++
 - Firmware Architecture
-- Low Power Optimization
 - RTOS Basics
-
-### Communication Protocols
-- UART
-- I2C
-- SPI
-- Modbus
-- MQTT
+- Low Power Optimization
 
 ---
 
-## ⚙️ Tools & Technologies
+# 📡 Communication Protocols
 
-![Altium](https://img.shields.io/badge/Altium%20Designer-red?style=for-the-badge&logo=altiumdesigner)
-![KiCad](https://img.shields.io/badge/KiCad-blue?style=for-the-badge&logo=kicad)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-black?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-Microcontroller-blue?style=for-the-badge)
-![C](https://img.shields.io/badge/C%20Programming-grey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-Embedded-blue?style=for-the-badge&logo=cplusplus)
+UART • I2C • SPI • Modbus • MQTT
 
 ---
 
-## 📡 Featured Projects
+# 🧰 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🔩 Hardware Platforms
+
+- ESP32
+- STM32
+- Arduino
+- Industrial Microcontrollers
+
+---
+
+# 📡 Featured Projects
 
 ### 🔋 Smart Energy Monitoring System
-Industrial energy monitoring device with IoT connectivity.
 
-**Features**
-- Real-time energy measurement
+Industrial IoT device for real-time energy monitoring.
+
+Features
+- Energy measurement
 - Cloud monitoring
 - Remote diagnostics
 
 ---
 
 ### 🌡 IoT Environmental Sensor
-Low-power wireless sensor node for temperature & humidity monitoring.
 
-**Technologies**
-- ESP32
-- MQTT
-- Cloud dashboard
+Low power wireless sensor for environmental monitoring.
+
+Technologies
+
+ESP32 • MQTT • Cloud Dashboard
 
 ---
 
 ### 📟 Industrial Data Logger
-Reliable data logging system for industrial equipment monitoring.
 
-**Features**
-- SD card storage
+Reliable monitoring system for industrial equipment.
+
+Features
+
+- SD card logging
 - Remote data transmission
 - Fault detection
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roth-visal&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roth-visal&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Roth-visal&show_icons=true&theme=tokyonight"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roth-visal&theme=tokyonight"/>
 
-## 📫 Connect With Me
-
-- LinkedIn
-- TikTok
-- GitHub
+</p>
 
 ---
 
-⭐ *Focused on building reliable embedded systems and scalable IoT hardware.*
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roth-visal&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Roth-visal&label=Profile%20views&color=blue&style=flat"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+GitHub  
+LinkedIn  
+TikTok  
+
+---
+
+⭐ Building reliable **Embedded Systems and IoT Hardware**
