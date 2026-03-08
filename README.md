@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Visal</h1>
 
 <p align="center">
-Embedded Systems • Hardware Design • IoT Engineer
+Hardware Design • Embedded Systems • IoT 
 </p>
 
 <p align="center">
@@ -14,17 +14,16 @@ Embedded Systems • Hardware Design • IoT Engineer
 
 # 🔧 About Me
 
-🔹 Electronics Hardware & Embedded Systems Engineer  
+🔹 Electronics Hardware & Embedded Systems
 🔹 Specialized in **PCB Design, IoT Hardware, and Embedded Firmware**  
-🔹 Designing **production-ready electronic systems**
+🔹 Designing **PCB Prototype and production-ready electronic systems**
 
 💡 Focus Areas
 
-- IoT Device Development
-- Embedded Firmware (C / C++)
-- Industrial Monitoring Systems
-- Power Electronics
 - Hardware Prototyping & Testing
+- Embedded Firmware (C / C++)
+- Power Electronics
+- IoT Device Development
 
 ---
 
@@ -57,7 +56,7 @@ UART • I2C • SPI • Modbus • MQTT
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,vscode"/>
 
 </p>
 
@@ -65,10 +64,9 @@ UART • I2C • SPI • Modbus • MQTT
 
 # 🔩 Hardware Platforms
 
-- ESP32
+- ESP32, ESP8666
 - STM32
 - Arduino
-- Industrial Microcontrollers
 
 ---
 
@@ -81,13 +79,13 @@ Industrial IoT device for real-time energy monitoring.
 Features
 - Energy measurement
 - Cloud monitoring
-- Remote diagnostics
+- Remote Control
 
 ---
 
 ### 🌡 IoT Environmental Sensor
 
-Low power wireless sensor for environmental monitoring.
+Low-power wireless sensor for environmental monitoring.
 
 Technologies
 
@@ -102,7 +100,6 @@ Reliable monitoring system for industrial equipment.
 Features
 
 - SD card logging
-- Remote data transmission
 - Fault detection
 
 ---
