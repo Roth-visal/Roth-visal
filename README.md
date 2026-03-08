@@ -127,16 +127,6 @@ Features
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roth-visal&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 👀 Profile Visitors
 
 <p align="center">
