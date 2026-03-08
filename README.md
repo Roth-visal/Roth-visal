@@ -62,6 +62,16 @@ UART • I2C • SPI • Modbus • MQTT
 
 ---
 
+## 🔩 Hardware Design Tools
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/kicad" width="50"/>
+<img src="https://cdn.simpleicons.org/altiumdesigner" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/LTspice_logo.png" width="50"/>
+</p>
+
+---
+
 # 🔩 Hardware Platforms
 
 - ESP32, ESP8666
