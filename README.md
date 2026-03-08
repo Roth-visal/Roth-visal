@@ -14,7 +14,7 @@ Hardware Design • Embedded Systems • IoT
 
 # 🔧 About Me
 
-🔹 Electronics **Hardware & Embedded Systems**
+🔹 Electronics **Hardware & Embedded Systems** 
 🔹 Specialized in **PCB Design, IoT Hardware, and Embedded Firmware**  
 🔹 Designing **PCB Prototype and production-ready electronic systems**
 
