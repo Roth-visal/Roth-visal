@@ -65,11 +65,12 @@ UART • I2C • SPI • Modbus • MQTT
 ## 🔩 Hardware Design Tools
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/kicad" width="50"/>
-<img src="https://cdn.simpleicons.org/altiumdesigner" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/LTspice_logo.png" width="50"/>
-</p>
 
+<img src="kicad.png.png" width="70">
+<img src="altium.png.png" width="70">
+<img src="ltspice.png.png" width="70">
+
+</p>
 ---
 
 # 🔩 Hardware Platforms
